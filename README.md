@@ -1,5 +1,5 @@
 C Database (Dynamic Memory Implementation)
-This project is an advanced implementation of the database exercise (Ex17) from "Learn C The Hard Way" by Zed A. Shaw.
+This project is an improved implementation of the database exercise (Ex17) from "Learn C The Hard Way" by Zed A. Shaw.
 
 While the original exercise relies on fixed-size structures and static arrays, this version has been significantly refactored to demonstrate dynamic memory management and pointer manipulation.
 
